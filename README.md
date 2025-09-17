@@ -1,7 +1,7 @@
 # machine-learning-notes
 A comprehensive collection of machine learning notes, tutorials, and practical exercises covering fundamental algorithms and techniques.
 
-
+~~~bash 
 machine-learning-notes/
 │
 ├── README.md                 # Overview, setup guide, resources
@@ -67,3 +67,4 @@ machine-learning-notes/
     ├── books.md
     ├── online_links.md
     └── case_studies.md
+~~~
